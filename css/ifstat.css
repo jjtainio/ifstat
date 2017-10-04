@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: lightgray;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+
+}
+#myChart {
+    background-color: black;
+}
